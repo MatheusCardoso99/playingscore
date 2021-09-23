@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "playingscore",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
